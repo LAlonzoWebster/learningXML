@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<films-by-coen-brothers>
+<movie>
+    <name>Raising Arizona</name>
+    <year>1987</year>
+    <plot>
+   When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.
+    </plot>
+    <actor1>Nicolas Cage</actor1>
+        <character1>H.I. McDunnough</character1>
+    <actor2>Holly Hunter</actor2>
+        <character2>Ed</character2>
+    <actor3>John Goodman</actor3>
+        <character3>Gale</character3>
+</movie>
+<movie>
+    <name>Fargo</name>
+    <year>1996</year>
+    <plot>
+    Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+    </plot>
+        <actor1>William H. Macy</actor1>
+        <character1>Jerry Lundegaard</character1>
+    <actor2>Steve Buscemi</actor2>
+        <character2>Carl Showalter</character2>
+    <actor3>Peter Stormare</actor3>
+        <character3>Gaear Grimsrud</character3>
+</movie>
+<movie>
+    <name>The Big Lebowski</name>
+    <year>1998</year>
+    <plot>
+    Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+    </plot>
+    <actor1>Jeff Bridges</actor1>
+        <character1>The Dude</character1>
+    <actor2>John Goodman</actor2>
+        <character2>Walter Sobchak</character2>
+    <actor3>Julianne Moore</actor3>
+        <character3>Maude Lebowski</character3>
+</movie>
+<movie>
+    <name>O Brother, Where Art Thou?</name>
+    <year>2000</year>
+    <plot>
+    In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.
+    </plot>
+    <actor1>George Clooney</actor1>
+        <character1>Everett</character1>
+    <actor2>John Turturro</actor2>
+        <character2>Pete Hogwallop</character2>
+    <actor3>Tim Blake Nelson</actor3>
+        <character3>Delmar O'Donnell</character3>
+</movie>
+<movie>
+    <name>True Grit</name>
+    <year>2010</year>
+    <plot>
+    A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father's murderer.
+    </plot>
+    <actor1>Jeff Bridges</actor1>
+        <character1>Rooster Cogburn</character1>
+    <actor2>Hailee Steinfeld</actor2>
+        <character2>Mattie Ross</character2>
+    <actor3>Matt Damon</actor3>
+        <character3>LeBoeuf</character3>
+</movie>
+<movie>
+    <name>Unbroken</name>
+    <year>2014</year>
+    <plot>
+    After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.
+    </plot>
+    <actor1>Jack O'Connell</actor1>
+        <character1>Louis Zamperini</character1>
+    <actor2>Domhnall Gleeson</actor2>
+        <character2>Phil</character2>
+    <actor3>Garrett Hedlund</actor3>
+        <character3>Fitzgerald</character3>
+</movie>
+</films-by-coen-brothers>
